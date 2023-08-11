@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.5" height="48.5" viewBox="0 0 48.5 48.5">
+  <g id="busca_pri" transform="translate(-307.75 -8315.328)">
+    <rect id="Retângulo_18342" data-name="Retângulo 18342" width="48" height="48" transform="translate(308 8315.578)" fill="none" stroke="#bdbdbd" stroke-width="0.5" opacity="0"/>
+    <path id="Caminho_26951" data-name="Caminho 26951" d="M13.4,0h0a13.4,13.4,0,1,1,0,26.8A13.4,13.4,0,1,1,13.4,0Zm0,23.991a10.592,10.592,0,1,0,0-21.184h0a10.592,10.592,0,1,0,0,21.184Z" transform="translate(311.057 8337.275) rotate(-45)" fill="#ecb11f"/>
+    <g id="Grupo_26220" data-name="Grupo 26220" transform="translate(319.539 8345.758) rotate(-45)">
+      <path id="União_36" data-name="União 36" d="M21624.961,14675.37v-8.447a13.4,13.4,0,0,1-11.5-13.264,1.4,1.4,0,1,1,2.807,0,10.594,10.594,0,0,0,19.295,6.038,1.4,1.4,0,0,1,2.3,1.608,13.422,13.422,0,0,1-10.1,5.719v8.346a1.406,1.406,0,0,1-1.406,1.4h-.01A1.4,1.4,0,0,1,21624.961,14675.37Z" transform="translate(-21613.461 -14652.255)" fill="#007e7a"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+.searchBar{
+  margin: 60px;
+  padding: 0px;
+}
+
+.searchBar {
+ display: flex;
+ flex-wrap: wrap;
+ flex-direction: row;
+ align-items: center;
+ justify-content: center;
+ width: 100%;
+}
+
+.searchCamp {
+  padding-left: 20px;
+  padding-right: 25rem;
+}
+
+.searchCamp {
+  border: none;
+  outline: none;
+}
+
+input:hover::placeholder{
+  color: black;
+}
+
+.searchCamp {
+  height: 1.5rem;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
