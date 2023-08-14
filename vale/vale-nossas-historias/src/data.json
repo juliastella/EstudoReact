@@ -1,0 +1,1116 @@
+{
+  "items": [
+    {
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "In 2022, Vale celebrates eight decades of existence with the realization that a trajectory so full of chapters cannot be told from a single point of view. Get to know our history."
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/vale80anos-png",
+              "description": "memory space cover",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 1975238,
+              "sizeInBytes": 93913,
+              "title": "Vale80anos.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/80-years-evolving-together-beyond-mining"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Kfouri",
+        "givenName": "Guilherme",
+        "id": 53411,
+        "image": "/image/user_male_portrait?img_id=53461&img_id_token=ZGTkk4cN2upjpqD2IEw7BoOxpa0%3D&t=1691214768373",
+        "name": "Guilherme Kfouri"
+      },
+      "customFields": [],
+      "dateCreated": "2022-12-20T12:16:55Z",
+      "dateModified": "2023-01-05T18:22:01Z",
+      "datePublished": "2022-12-20T12:13:00Z",
+      "description": "",
+      "externalReferenceCode": "1cf16357-7af6-e9bb-f212-65fe0efd653a",
+      "friendlyUrlPath": "vale-80-years",
+      "id": 2672934,
+      "key": "2672932",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 3.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": false,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672934/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        },
+        {
+          "taxonomyCategoryId": 64877,
+          "taxonomyCategoryName": "Australia"
+        },
+        {
+          "taxonomyCategoryId": 64880,
+          "taxonomyCategoryName": "China"
+        },
+        {
+          "taxonomyCategoryId": 64883,
+          "taxonomyCategoryName": "Japan"
+        },
+        {
+          "taxonomyCategoryId": 64886,
+          "taxonomyCategoryName": "Canada"
+        },
+        {
+          "taxonomyCategoryId": 64889,
+          "taxonomyCategoryName": "Oman"
+        },
+        {
+          "taxonomyCategoryId": 64892,
+          "taxonomyCategoryName": "Indonesia"
+        },
+        {
+          "taxonomyCategoryId": 64895,
+          "taxonomyCategoryName": "Malaysia"
+        },
+        {
+          "taxonomyCategoryId": 168894,
+          "taxonomyCategoryName": "United Kingdom"
+        }
+      ],
+      "title": "Vale 80 years",
+      "uuid": "863f414c-e76d-cc71-1631-24c0622da154"
+    },
+    {
+      "actions": {
+        "get-rendered-content": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672960/rendered-content/{contentTemplateId}"
+        },
+        "get-rendered-content-by-display-page": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672960/rendered-content-by-display-page/{displayPageKey}"
+        },
+        "get": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672960"
+        }
+      },
+      "availableLanguages": ["en-US", "pt-BR"],
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "The history of a company is the portrait of its experience, its experience, its learning, “stories” told by people, individual memories, the dreams of those who were and are part of its trajectory."
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/espaco-memoria-png",
+              "description": "Cover image memory space",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 521100,
+              "sizeInBytes": 51770,
+              "title": "Espaço Memória.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/history-center"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Kfouri",
+        "givenName": "Guilherme",
+        "id": 53411,
+        "image": "/image/user_male_portrait?img_id=53461&img_id_token=ZGTkk4cN2upjpqD2IEw7BoOxpa0%3D&t=1691214768373",
+        "name": "Guilherme Kfouri"
+      },
+      "customFields": [],
+      "dateCreated": "2022-12-20T12:22:46Z",
+      "dateModified": "2023-01-05T18:22:04Z",
+      "datePublished": "2022-12-20T12:18:00Z",
+      "description": "",
+      "externalReferenceCode": "5c479a5d-33b5-679f-4c4e-c1da76917148",
+      "friendlyUrlPath": "memory-space",
+      "id": 2672960,
+      "key": "2672958",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 2.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": false,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672960/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        },
+        {
+          "taxonomyCategoryId": 64877,
+          "taxonomyCategoryName": "Australia"
+        },
+        {
+          "taxonomyCategoryId": 64880,
+          "taxonomyCategoryName": "China"
+        },
+        {
+          "taxonomyCategoryId": 64883,
+          "taxonomyCategoryName": "Japan"
+        },
+        {
+          "taxonomyCategoryId": 64886,
+          "taxonomyCategoryName": "Canada"
+        },
+        {
+          "taxonomyCategoryId": 64889,
+          "taxonomyCategoryName": "Oman"
+        },
+        {
+          "taxonomyCategoryId": 64892,
+          "taxonomyCategoryName": "Indonesia"
+        },
+        {
+          "taxonomyCategoryId": 64895,
+          "taxonomyCategoryName": "Malaysia"
+        },
+        {
+          "taxonomyCategoryId": 168894,
+          "taxonomyCategoryName": "United Kingdom"
+        }
+      ],
+      "title": "Memory Space",
+      "uuid": "57670b37-39f5-b863-2db5-c6e6ba2212cc"
+    },
+    {
+      "actions": {
+        "get-rendered-content": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672988/rendered-content/{contentTemplateId}"
+        },
+        "get-rendered-content-by-display-page": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672988/rendered-content-by-display-page/{displayPageKey}"
+        },
+        "get": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672988"
+        }
+      },
+      "availableLanguages": ["en-US", "pt-BR"],
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "At Vale, we believe that the female presence is essential for building a more egalitarian and sustainable future. Our recent initiatives focused on inclusion and diversity help us to make further progress in creating a more cooperative environment."
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/mineracao-por-elas-png",
+              "description": "Cover image women at vale",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 521087,
+              "sizeInBytes": 115061,
+              "title": "Mineração por elas.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/mulheres-na-vale"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Kfouri",
+        "givenName": "Guilherme",
+        "id": 53411,
+        "image": "/image/user_male_portrait?img_id=53461&img_id_token=ZGTkk4cN2upjpqD2IEw7BoOxpa0%3D&t=1691214768373",
+        "name": "Guilherme Kfouri"
+      },
+      "customFields": [],
+      "dateCreated": "2022-12-20T12:25:03Z",
+      "dateModified": "2023-01-05T18:21:55Z",
+      "datePublished": "2022-12-20T12:23:00Z",
+      "description": "",
+      "externalReferenceCode": "bf1bc924-d399-de22-0f41-ba76e6cc0585",
+      "friendlyUrlPath": "women-at-vale",
+      "id": 2672988,
+      "key": "2672986",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 1.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": false,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2672988/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        },
+        {
+          "taxonomyCategoryId": 64877,
+          "taxonomyCategoryName": "Australia"
+        },
+        {
+          "taxonomyCategoryId": 64880,
+          "taxonomyCategoryName": "China"
+        },
+        {
+          "taxonomyCategoryId": 64883,
+          "taxonomyCategoryName": "Japan"
+        },
+        {
+          "taxonomyCategoryId": 64886,
+          "taxonomyCategoryName": "Canada"
+        },
+        {
+          "taxonomyCategoryId": 64889,
+          "taxonomyCategoryName": "Oman"
+        },
+        {
+          "taxonomyCategoryId": 64892,
+          "taxonomyCategoryName": "Indonesia"
+        },
+        {
+          "taxonomyCategoryId": 64895,
+          "taxonomyCategoryName": "Malaysia"
+        },
+        {
+          "taxonomyCategoryId": 168894,
+          "taxonomyCategoryName": "United Kingdom"
+        }
+      ],
+      "title": "Women at Vale",
+      "uuid": "e55cff30-56a2-117a-ac3e-4efa0db2bce2"
+    },
+    {
+      "actions": {
+        "get-rendered-content": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2703684/rendered-content/{contentTemplateId}"
+        },
+        "get-rendered-content-by-display-page": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2703684/rendered-content-by-display-page/{displayPageKey}"
+        },
+        "get": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2703684"
+        }
+      },
+      "availableLanguages": ["en-US", "pt-BR"],
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "Raising awareness of the LGBTI+ theme and reinforcing respect for sexual orientation and gender identity, regardless of personal beliefs and values, are some of our priorities within the subject of Diversity, Equality and Inclusion."
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/vale80anos-png-1",
+              "description": "Orgulho LGBTI+",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 2713014,
+              "sizeInBytes": 106876,
+              "title": "Vale80anos.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/lgbti-pride"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Pessoa",
+        "givenName": "Geraldo",
+        "id": 113973,
+        "name": "Geraldo Pessoa"
+      },
+      "customFields": [],
+      "dateCreated": "2022-12-22T22:09:02Z",
+      "dateModified": "2023-07-05T13:22:32Z",
+      "datePublished": "2022-12-22T22:04:00Z",
+      "description": "",
+      "externalReferenceCode": "f2a60de0-fc28-2d61-5fcf-0c4e8d397057",
+      "friendlyUrlPath": "orgulho-lgbtqia-",
+      "id": 2703684,
+      "key": "2703682",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 0.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": true,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/2703684/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        }
+      ],
+      "title": "Pride LGBTI+",
+      "uuid": "3b121656-b607-0945-63d2-c33d2f955306"
+    },
+    {
+      "actions": {
+        "get-rendered-content": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4270552/rendered-content/{contentTemplateId}"
+        },
+        "get-rendered-content-by-display-page": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4270552/rendered-content-by-display-page/{displayPageKey}"
+        },
+        "get": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4270552"
+        }
+      },
+      "availableLanguages": ["en-US", "pt-BR"],
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "Vale knows that its role goes far beyond mining. Learn more about the results of this work from the testimonials of the protagonists of these stories."
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/juntos-para-transformar-png",
+              "description": "Transform Together",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 4271695,
+              "sizeInBytes": 323407,
+              "title": "juntos para transformar.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/transform-together"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Sgreccia",
+        "givenName": "Filippi",
+        "id": 892387,
+        "name": "Filippi Sgreccia"
+      },
+      "customFields": [],
+      "dateCreated": "2023-05-19T14:19:42Z",
+      "dateModified": "2023-05-19T15:29:24Z",
+      "datePublished": "2023-05-19T14:05:00Z",
+      "description": "",
+      "externalReferenceCode": "739bc598-c2c0-e3cb-3e05-a1f86d53759e",
+      "friendlyUrlPath": "transform-together-1",
+      "id": 4270552,
+      "key": "4270550",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 0.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": false,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4270552/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        },
+        {
+          "taxonomyCategoryId": 64877,
+          "taxonomyCategoryName": "Australia"
+        },
+        {
+          "taxonomyCategoryId": 64880,
+          "taxonomyCategoryName": "China"
+        },
+        {
+          "taxonomyCategoryId": 64883,
+          "taxonomyCategoryName": "Japan"
+        },
+        {
+          "taxonomyCategoryId": 64886,
+          "taxonomyCategoryName": "Canada"
+        },
+        {
+          "taxonomyCategoryId": 64889,
+          "taxonomyCategoryName": "Oman"
+        },
+        {
+          "taxonomyCategoryId": 64892,
+          "taxonomyCategoryName": "Indonesia"
+        },
+        {
+          "taxonomyCategoryId": 64895,
+          "taxonomyCategoryName": "Malaysia"
+        },
+        {
+          "taxonomyCategoryId": 168894,
+          "taxonomyCategoryName": "United Kingdom"
+        }
+      ],
+      "title": "Transform Together",
+      "uuid": "ee43595a-e1fd-0c60-698f-bc233a045ff2"
+    },
+    {
+      "actions": {
+        "get-rendered-content": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4271067/rendered-content/{contentTemplateId}"
+        },
+        "get-rendered-content-by-display-page": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4271067/rendered-content-by-display-page/{displayPageKey}"
+        },
+        "get": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4271067"
+        }
+      },
+      "availableLanguages": ["en-US", "pt-BR"],
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "This webseries aims to highlight the work of women in the mining sector, in different roles and hierarchies."
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/mineracao-por-elas-png-2",
+              "description": "Mining by Women ",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 4271050,
+              "sizeInBytes": 331901,
+              "title": "Mineração por elas.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/mining-by-woman"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Sgreccia",
+        "givenName": "Filippi",
+        "id": 892387,
+        "name": "Filippi Sgreccia"
+      },
+      "customFields": [],
+      "dateCreated": "2023-05-19T14:54:24Z",
+      "dateModified": "2023-05-19T15:00:12Z",
+      "datePublished": "2023-05-19T14:29:00Z",
+      "description": "",
+      "externalReferenceCode": "78683716-fa33-64ae-5f56-14af8d99730c",
+      "friendlyUrlPath": "mining-by-women",
+      "id": 4271067,
+      "key": "4271065",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 0.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": false,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4271067/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        },
+        {
+          "taxonomyCategoryId": 64877,
+          "taxonomyCategoryName": "Australia"
+        },
+        {
+          "taxonomyCategoryId": 64880,
+          "taxonomyCategoryName": "China"
+        },
+        {
+          "taxonomyCategoryId": 64883,
+          "taxonomyCategoryName": "Japan"
+        },
+        {
+          "taxonomyCategoryId": 64886,
+          "taxonomyCategoryName": "Canada"
+        },
+        {
+          "taxonomyCategoryId": 64889,
+          "taxonomyCategoryName": "Oman"
+        },
+        {
+          "taxonomyCategoryId": 64892,
+          "taxonomyCategoryName": "Indonesia"
+        },
+        {
+          "taxonomyCategoryId": 64895,
+          "taxonomyCategoryName": "Malaysia"
+        },
+        {
+          "taxonomyCategoryId": 168894,
+          "taxonomyCategoryName": "United Kingdom"
+        }
+      ],
+      "title": "Mining by Women",
+      "uuid": "78683716-fa33-64ae-5f56-14af8d99730c"
+    },
+    {
+      "actions": {
+        "get-rendered-content": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272044/rendered-content/{contentTemplateId}"
+        },
+        "get-rendered-content-by-display-page": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272044/rendered-content-by-display-page/{displayPageKey}"
+        },
+        "get": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272044"
+        }
+      },
+      "availableLanguages": ["en-US", "pt-BR"],
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "During the five episodes, chef Kátia Barbosa gets to know the ingredients of one of the largest forests in the world."
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/receitas-da-floresta-png-1",
+              "description": "Recipes from the Forest ",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 4272027,
+              "sizeInBytes": 344561,
+              "title": "receitas da floresta.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/receitas-da-floresta"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Sgreccia",
+        "givenName": "Filippi",
+        "id": 892387,
+        "name": "Filippi Sgreccia"
+      },
+      "customFields": [],
+      "dateCreated": "2023-05-19T16:11:57Z",
+      "dateModified": "2023-05-19T16:33:20Z",
+      "datePublished": "2023-05-19T16:09:00Z",
+      "description": "",
+      "externalReferenceCode": "14bd0868-cafc-cc4b-d821-a970f21f6f30",
+      "friendlyUrlPath": "recipes-from-the-forest",
+      "id": 4272044,
+      "key": "4272042",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 0.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": false,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272044/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        },
+        {
+          "taxonomyCategoryId": 64877,
+          "taxonomyCategoryName": "Australia"
+        },
+        {
+          "taxonomyCategoryId": 64880,
+          "taxonomyCategoryName": "China"
+        },
+        {
+          "taxonomyCategoryId": 64883,
+          "taxonomyCategoryName": "Japan"
+        },
+        {
+          "taxonomyCategoryId": 64886,
+          "taxonomyCategoryName": "Canada"
+        },
+        {
+          "taxonomyCategoryId": 64889,
+          "taxonomyCategoryName": "Oman"
+        },
+        {
+          "taxonomyCategoryId": 64892,
+          "taxonomyCategoryName": "Indonesia"
+        },
+        {
+          "taxonomyCategoryId": 64895,
+          "taxonomyCategoryName": "Malaysia"
+        },
+        {
+          "taxonomyCategoryId": 168894,
+          "taxonomyCategoryName": "United Kingdom"
+        }
+      ],
+      "title": "Recipes from the Forest",
+      "uuid": "14bd0868-cafc-cc4b-d821-a970f21f6f30"
+    },
+    {
+      "actions": {
+        "get-rendered-content": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272187/rendered-content/{contentTemplateId}"
+        },
+        "get-rendered-content-by-display-page": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272187/rendered-content-by-display-page/{displayPageKey}"
+        },
+        "get": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272187"
+        }
+      },
+      "availableLanguages": ["en-US", "pt-BR"],
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "We are committed to being an anti-racist company, and together we work every day to promote equal opportunities in our company."
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/etnico-racial-png",
+              "description": "Ethnic and racial equity ",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 4272166,
+              "sizeInBytes": 321633,
+              "title": "etnico-racial.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/ethnic-racial-equity"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Sgreccia",
+        "givenName": "Filippi",
+        "id": 892387,
+        "name": "Filippi Sgreccia"
+      },
+      "customFields": [],
+      "dateCreated": "2023-05-19T16:19:30Z",
+      "dateModified": "2023-05-19T16:33:36Z",
+      "datePublished": "2023-05-19T16:17:00Z",
+      "description": "",
+      "externalReferenceCode": "44ef7bb3-db6c-ffc2-ce4f-99b0a3d1855d",
+      "friendlyUrlPath": "ethnic-and-racial-equity",
+      "id": 4272187,
+      "key": "4272185",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 0.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": false,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272187/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        }
+      ],
+      "title": "Ethnic and racial equity",
+      "uuid": "44ef7bb3-db6c-ffc2-ce4f-99b0a3d1855d"
+    },
+    {
+      "actions": {
+        "get-rendered-content": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272251/rendered-content/{contentTemplateId}"
+        },
+        "get-rendered-content-by-display-page": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272251/rendered-content-by-display-page/{displayPageKey}"
+        },
+        "get": {
+          "method": "GET",
+          "href": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272251"
+        }
+      },
+      "availableLanguages": ["en-US", "pt-BR"],
+      "contentFields": [
+        {
+          "contentFieldValue": {
+            "data": "Learn about the transforming power of our communities in this webseries"
+          },
+          "dataType": "string",
+          "inputControl": "text",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "image": {
+              "contentType": "Document",
+              "contentUrl": "/documents/d/guest/caminhos-da-coletividade-png",
+              "description": "Paths of Collectivity ",
+              "encodingFormat": "image/png",
+              "fileExtension": "png",
+              "id": 4272233,
+              "sizeInBytes": 206538,
+              "title": "caminhos da coletividade.png"
+            }
+          },
+          "dataType": "image",
+          "label": "Cover image",
+          "name": "imagemDeCapa",
+          "nestedContentFields": [],
+          "repeatable": false
+        },
+        {
+          "contentFieldValue": {
+            "link": "/caminhos-da-coletividade"
+          },
+          "dataType": "url",
+          "label": "Associated layout",
+          "name": "associatedLayout",
+          "nestedContentFields": [],
+          "repeatable": false
+        }
+      ],
+      "contentStructureId": 2672918,
+      "creator": {
+        "additionalName": "",
+        "contentType": "UserAccount",
+        "familyName": "Sgreccia",
+        "givenName": "Filippi",
+        "id": 892387,
+        "name": "Filippi Sgreccia"
+      },
+      "customFields": [],
+      "dateCreated": "2023-05-19T16:26:09Z",
+      "dateModified": "2023-05-19T16:33:50Z",
+      "datePublished": "2023-05-19T16:23:00Z",
+      "description": "",
+      "externalReferenceCode": "d134ccc0-1729-330f-872c-99a5fbc22656",
+      "friendlyUrlPath": "paths-of-collectivity",
+      "id": 4272251,
+      "key": "4272249",
+      "keywords": [],
+      "numberOfComments": 0,
+      "priority": 0.0,
+      "relatedContents": [],
+      "renderedContents": [
+        {
+          "contentTemplateId": "2684903",
+          "contentTemplateName": "Our stories card",
+          "markedAsDefault": false,
+          "renderedContentURL": "https://vale.com/o/headless-delivery/v1.0/structured-contents/4272251/rendered-content/2684903"
+        }
+      ],
+      "siteId": 44618,
+      "structuredContentFolderId": 2672927,
+      "subscribed": false,
+      "taxonomyCategoryBriefs": [
+        {
+          "taxonomyCategoryId": 64874,
+          "taxonomyCategoryName": "Brazil"
+        },
+        {
+          "taxonomyCategoryId": 64877,
+          "taxonomyCategoryName": "Australia"
+        },
+        {
+          "taxonomyCategoryId": 64880,
+          "taxonomyCategoryName": "China"
+        },
+        {
+          "taxonomyCategoryId": 64883,
+          "taxonomyCategoryName": "Japan"
+        },
+        {
+          "taxonomyCategoryId": 64886,
+          "taxonomyCategoryName": "Canada"
+        },
+        {
+          "taxonomyCategoryId": 64889,
+          "taxonomyCategoryName": "Oman"
+        },
+        {
+          "taxonomyCategoryId": 64892,
+          "taxonomyCategoryName": "Indonesia"
+        },
+        {
+          "taxonomyCategoryId": 64895,
+          "taxonomyCategoryName": "Malaysia"
+        },
+        {
+          "taxonomyCategoryId": 168894,
+          "taxonomyCategoryName": "United Kingdom"
+        }
+      ],
+      "title": "Paths of Collectivity",
+      "uuid": "d134ccc0-1729-330f-872c-99a5fbc22656"
+    }
+  ]
+}
