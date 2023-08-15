@@ -1,18 +1,19 @@
 import React from 'react';
 import Card from './CardList';
+import data from './../../data.json';
 
 const CardList = ({ card }) => {
   return (
-    <div className="container">
-      <div className="row">
-        {card.map((card, index) => (
-          <div className="col-md-4">
-            <Card 
-            titulo={'Oi'} 
-            imagem={'/imagens/Vale80anosN.png'} />
-          </div>
-        ))}
-      </div>
+    <div className="card-list">
+      {data.items.map((item, index) => (
+        <Card
+          key={index}
+          title={'item.title'}
+          imagemJson={
+            'item.contentFields[1].contentFieldValue.image.contentUrl'
+          }
+        />
+      ))}
     </div>
   );
 };

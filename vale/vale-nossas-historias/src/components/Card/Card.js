@@ -3,16 +3,16 @@ import React from 'react';
 import './Card.module.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const Card = ({ titulo, imagem }) => {
+const Card = ({ title, imagemJson }) => {
   return (
     <div className="card">
       <img
         className="card-img-top"
-        src={process.env.PUBLIC_URL + { imagem }}
+        src={ imagemJson }
         alt="Imagem do card"
       />
       <div className="card-body">
-        <h5 className="card-title titulo">{titulo}</h5>
+        <h5 className="card-title titulo">{title}</h5>
       </div>
     </div>
   );
