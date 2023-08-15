@@ -1,12 +1,11 @@
 import React from 'react';
 import Card from '../Card/Card';
-import data from './../../data.json';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const CardList = () => {
+const CardList = ({ items }) => {
   return (
     <div className="row row-cols-1 row-cols-md-2 g-4 card-list">
-      {data.items.map((item, index) => (
+      {items.map((item, index) => (
         <Card
           key={index}
           title={item.title}

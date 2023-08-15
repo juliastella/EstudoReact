@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import styles from './SearchBar.module.css';
 import data from './../../data.json';
 import CardList from '../CardList/CardList';
-//import Card from '../Card';
 
 import { ReactComponent as SearchIcon } from './search-icon.svg';
 
@@ -29,10 +28,7 @@ const SearchBar = ({ onChange }) => {
   return (
     <>
       <div className={`${styles.searchBar} searchBarContainer`}>
-        <button
-          className={styles.searchIcon}
-          onClick={handleSearch}>
-            
+        <button className={styles.searchIcon} onClick={handleSearch}>
           <SearchIcon />
         </button>
 
