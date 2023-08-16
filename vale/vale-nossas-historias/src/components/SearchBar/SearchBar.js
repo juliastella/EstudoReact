@@ -6,6 +6,7 @@ import CardList from '../CardList/CardList';
 import { ReactComponent as SearchIcon } from './search-icon.svg';
 
 const SearchBar = ({ onChange }) => {
+
   const [searchTerm, setSearchTerm] = useState('');
   const [searchHistory, setSearchHistory] = useState([]);
 
@@ -24,7 +25,6 @@ const SearchBar = ({ onChange }) => {
   const filteredItems = data.items.filter((item) =>
     item.title.toLowerCase().includes(searchTerm.toLowerCase()),
   );
-
   return (
     <>
       <div className={`${styles.searchBar} searchBarContainer`}>

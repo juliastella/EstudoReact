@@ -1,15 +1,16 @@
 .searchBar{
   margin: 60px;
-  padding: 0px;
+  padding-left: 0px;
+  border-bottom: 1px solid rgb(85, 85, 85);
 }
+
 
 .searchBar {
  display: flex;
  flex-wrap: wrap;
- flex-direction: row;
+ justify-content: flex-start;
  align-items: center;
- justify-content: center;
- width: 100%;
+ width: 50%;
 }
 
 .searchCamp {
@@ -22,9 +23,6 @@
   outline: none;
 }
 
-input:hover::placeholder{
-  color: #555555;
-}
 .searchIcon{
   width: 60px;
   height: 60px;
@@ -35,11 +33,17 @@ button{
   border: none;
 }
 
-
 .searchCamp,
 .searchCamp::placeholder {
-  height: 1.5rem;
-  font-size: 25px;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  padding-left: 0px;
   font-family: Vale Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol;
 }
+
+input:hover::placeholder{
+  color: #555555;
+}
+
+
 
