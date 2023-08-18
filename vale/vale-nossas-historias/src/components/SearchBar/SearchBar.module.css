@@ -1,16 +1,5 @@
 .searchBar{
-  margin: 60px;
-  padding-left: 0px;
-  border-bottom: 1px solid rgb(85, 85, 85);
-}
-
-
-.searchBar {
- display: flex;
- flex-wrap: wrap;
- justify-content: flex-start;
- align-items: center;
- width: 50%;
+  padding-bottom: 0px;
 }
 
 .searchCamp {
@@ -45,5 +34,8 @@ input:hover::placeholder{
   color: #555555;
 }
 
+@media (max-width: 768px){
+  
+}
 
 
